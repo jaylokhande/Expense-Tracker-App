@@ -14,7 +14,7 @@ Etc.
 
  ## How it works ?
  
- :tv: Video tutorial on this same topic
+ 
  Url : https://youtu.be/zQ5eijfpuu8
  
  
